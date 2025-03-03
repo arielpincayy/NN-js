@@ -39,9 +39,6 @@ This project implements a neural network with two different training modes:
 └── README.md         # Project documentation
 ```
 
-## Example
-![Example Screenshot](https://your-image-url.com/example.png)
-
 ## Contributing
 Feel free to fork this repository and submit pull requests for improvements!
 

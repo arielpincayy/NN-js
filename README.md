@@ -16,11 +16,7 @@ This project implements a neural network with two different training modes:
    git clone https://github.com/arielpincayy/NN-js.git
    cd yourrepository
    ```
-2. Install dependencies (if required):
-   ```sh
-   npm install  # Only if using external dependencies
-   ```
-3. Open `index.html` in your browser.
+2. Open `index.html` in your browser.
 
 ## Usage
 - Click the **Train** button to train the neural network using gradient descent.
